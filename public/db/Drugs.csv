@@ -1,0 +1,547 @@
+Name,Form,Price,Composition,json Composition,Admin Id,Drug Cat ID
+Lignosol,spray,18,cetrimide 0.035g. lidocaine 5.05g,"{""comp"":[{""name"":""cetrimide"",""size"":""0.035g""},{""name"":""lidocaine"",""size"":""5.05g""}]}",1,1
+Neocaine,cream,0.55,cinchocaine 1%,"{""comp"":[{""name"":""cinchocaine"",""size"":""1%""}]}",1,1
+Mepecaine I,carpule,3,"evonordefrin 0.06mg, mepivacaine 2%","{""comp"":[{""name"":""evonordefrin"",""size"":""0.06mg""},{""name"":""mepivacaine"",""size"":""2%""}]}",1,1
+Debocaine 20mg/ml,vial,6.25,lidocaine 2%,"{""comp"":[{""name"":""lidocaine"",""size"":""2%""}]}",1,1
+Depocaine,vial,6.25,lidocaine 2%,"{""comp"":[{""name"":""lidocaine"",""size"":""2%""}]}",1,1
+Farco caine 10%,spray,15,lidocaine 10%,"{""comp"":[{""name"":""lidocaine"",""size"":""10%""}]}",1,1
+Farco caine 5%,oint,2.25,lidocaine 5%,"{""comp"":[{""name"":""lidocaine"",""size"":""5%""}]}",1,1
+Lido,spray,8,lidocaine 40mg,"{""comp"":[{""name"":""lidocaine"",""size"":""40mg""}]}",1,1
+Lidocaine 10%,spray,10,lidocaine 10%,"{""comp"":[{""name"":""lidocaine"",""size"":""10%""}]}",1,1
+Lidocaine 2%,gel,2.5,lidocaine 2%,"{""comp"":[{""name"":""lidocaine"",""size"":""2%""}]}",1,1
+Lidocaine hcl 2%,vial,40,lidocaine 2%,"{""comp"":[{""name"":""lidocaine"",""size"":""2%""}]}",1,1
+Lidocaine hcl 20%,amp,30,lidocaine 20%,"{""comp"":[{""name"":""lidocaine"",""size"":""20%""}]}",1,1
+Lidocaine hcl 20mg/2ml b,amp,1,lidocaine 20mg,"{""comp"":[{""name"":""lidocaine"",""size"":""20mg""}]}",1,1
+Lidocaine hcl 50mg/5ml b,amp,1.5,lidocaine 50mg,"{""comp"":[{""name"":""lidocaine"",""size"":""50mg""}]}",1,1
+Lidoged 5%,gel,3,lidocaine 5%,"{""comp"":[{""name"":""lidocaine"",""size"":""5%""}]}",1,1
+Lidoged 5%,oint,2.4,lidocaine 5%,"{""comp"":[{""name"":""lidocaine"",""size"":""5%""}]}",1,1
+Lignocaine 10%,spray,10,lidocaine 10%,"{""comp"":[{""name"":""lidocaine"",""size"":""10%""}]}",1,1
+Lignocaine 2%,gel,3,lidocaine 2%,"{""comp"":[{""name"":""lidocaine"",""size"":""2%""}]}",1,1
+Lignocaine 5%,gel,3,lidocaine 5%,"{""comp"":[{""name"":""lidocaine"",""size"":""5%""}]}",1,1
+Lignocaine 5%,cream,2.25,lidocaine 5%,"{""comp"":[{""name"":""lidocaine"",""size"":""5%""}]}",1,1
+Manovipercaine,spray,10,lidocaine 10%,"{""comp"":[{""name"":""lidocaine"",""size"":""10%""}]}",1,1
+Ultracaine 5%,gel,3,lidocaine 5%,"{""comp"":[{""name"":""lidocaine"",""size"":""5%""}]}",1,1
+Xylocaine 10%,spray,44.75,lidocaine 10%,"{""comp"":[{""name"":""lidocaine"",""size"":""10%""}]}",1,1
+Xylocaine 5%,oint,2.85,lidocaine 5%,"{""comp"":[{""name"":""lidocaine"",""size"":""5%""}]}",1,1
+Xylocaine jelly 2%,gel,30.8,lidocaine 2%,"{""comp"":[{""name"":""lidocaine"",""size"":""2%""}]}",1,1
+Xylotop 4%,cream,2.25,lidocaine4%,"{""comp"":[{""name"":""lidocaine"",""size"":""4%""}]}",1,1
+Xylotop 4%,gel,3,lidocaine4%,"{""comp"":[{""name"":""lidocaine"",""size"":""4%""}]}",1,1
+EmIa,amp,50,lidocaine. prilocaine,"{""comp"":[{""name"":""lidocaine"",""size"":""""},{""name"":""prilocaine"",""size"":""""}]}",1,1
+EmIa 5%,cream,10,lidocaine 25mg. prilocaine 25mg,"{""comp"":[{""name"":""lidocaine"",""size"":""25mg""},{""name"":""prilocaine"",""size"":""25mg""}]}",1,1
+Ezanal,cream,5.5,"lidocaine 2.5%, pnlocaine 2.5%","{""comp"":[{""name"":""lidocaine"",""size"":""2.5%""},{""name"":""prilocaine"",""size"":""2.5%""}]}",1,1
+Prlidocaine,cream,7,"lidocaine 2.5%, prilocaine 2.5%","{""comp"":[{""name"":""lidocaine"",""size"":""2.5%""},{""name"":""prilocaine"",""size"":""2.5%""}]}",1,1
+Mepecaine 3%,carpule,2.5,mepivacaine 3%,"{""comp"":[{""name"":""mepivacaine"",""size"":""3%""}]}",1,1
+Aranesp 100mcg/0.5ml,syring,6640,darbepoetin alfa 1 OOmcg,"{""comp"":[{""name"":""darbepoetin alfa"",""size"":""100mg""}]}",1,2
+Aranes 10mcg/0.4ml,syring,660,darbe poetin alfa 1 Omcg ,"{""comp"":[{""name"":""darbepoetin alfa"",""size"":""10mg""}]}",1,2
+Aranesp 150mc g/0.3ml ,syring,9960,dar be poetin alfa 150mcg ,"{""comp"":[{""name"":""darbepoetin alfa"",""size"":""150mg""}]}",1,2
+Aran esp syrin 15mcg/0.375ml,syring,1000,darbe poetin alfa 15mcg ,"{""comp"":[{""name"":""darbepoetin alfa"",""size"":""15mcg""}]}",1,2
+AranesR20m cg/0.5ml ,syring,355,darbe poetin alfa 20mcg ,"{""comp"":[{""name"":""darbepoetin alfa"",""size"":""20mcg""}]}",1,2
+Aranesp . 300mcg/0.6ml,syring,4500,darbe poetin alfa 300mcg ,"{""comp"":[{""name"":""darbepoetin alfa"",""size"":""300mcg""}]}",1,2
+Aranesp30mcg|0.3ml,syring,500,darbe poetin alfa 30mcg ,"{""comp"":[{""name"":""darbepoetin alfa"",""size"":""30mcg""}]}",1,2
+Aranesp . 300mcg/0.4ml,syring,675,darbe poetin alfa 40mcg ,"{""comp"":[{""name"":""darbepoetin alfa"",""size"":""40mcg""}]}",1,2
+Aranesp . 500mcg/ml,syring,7500,darbe poetin alfa 500mcg ,"{""comp"":[{""name"":""darbepoetin alfa"",""size"":""500mcg""}]}",1,2
+Aranesp60mcg/0.3ml,syring,1000,darbepoetin alfa 60mcg,"{""comp"":[{""name"":""darbepoetin alfa"",""size"":""60mcg""}]}",1,2
+Epiao 4000i.u/ml,vial,52.5,erythropoietin alpha 4000u/ml ,"{""comp"":[{""name"":""erythropoietin alpha"",""size"":""4000u/ml ""}]}",1,2
+Epoetin 2000i.u/1 ml ,vial,60,erythropoietin alpha 2000u/ml,"{""comp"":[{""name"":""erythropoietin alpha"",""size"":""2000u/ml ""}]}",1,2
+Epoetin 4000i.u/1 ml ,vial,115,erythropoietin alpha 4000u/ml ,"{""comp"":[{""name"":""erythropoietin alpha"",""size"":""4000u/ml ""}]}",1,2
+Epoform 2000i.u/ml,vial,75,erythropoietin alpha 2000i.u.,"{""comp"":[{""name"":""erythropoietin alpha"",""size"":""2000i.u ""}]}",1,2
+Epoform 4000i.u/ml,vial,115,erythropoietin alpha 4000i.u,"{""comp"":[{""name"":""erythropoietin alpha"",""size"":""4000i.u ""}]}",1,2
+Eprex 10000i.u/1 ml,syring,3858,erythropoietin alpha 10000i.u.,"{""comp"":[{""name"":""erythropoietin alpha"",""size"":""1000i.u ""}]}",1,2
+Eprex 20000i.u/1 ml,syring,780,erythropoietin alpha 2000i.u.,"{""comp"":[{""name"":""erythropoietin alpha"",""size"":""2000i.u ""}]}",1,2
+Eprex 40000i.u/1 ml,syring,1140,erythropoietin alpha 40001.u.,"{""comp"":[{""name"":""erythropoietin alpha"",""size"":""4000i.u ""}]}",1,2
+Erypioten 2000 ,vial,75,erythropoietin alpha 2000i.u.,"{""comp"":[{""name"":""erythropoietin alpha"",""size"":""2000i.u ""}]}",1,2
+Erypioten 4000,vial,155,erythropoietin alpha 4000i.u.,"{""comp"":[{""name"":""erythropoietin alpha"",""size"":""4000i.u ""}]}",1,2
+Ger epo 2000,vial,69,erythropoietin alpha 2000i.u.,"{""comp"":[{""name"":""erythropoietin alpha"",""size"":""2000i.u ""}]}",1,2
+Ger epo 4000,vial,132,erythropoietin alpha 4000i.u.,"{""comp"":[{""name"":""erythropoietin alpha"",""size"":""4000i.u ""}]}",1,2
+Recormon 2000i.u/0.3ml,syring,426,erythropoietin beta 2000i.u,"{""comp"":[{""name"":""erythropoietin alpha"",""size"":""2000i.u ""}]}",1,2
+Recormon 5000i.u/0.3ml,syring,1068,erythropoietin beta 5000i.u,"{""comp"":[{""name"":""erythropoietin alpha"",""size"":""5000i.u ""}]}",1,2
+Mircera 100mcg/0.3ml,syring,1440,methoxy polyethylene glycol epoetln beta 100mcg,"{""comp"":[{""name"":""methoxy polyethylene glycol epoetln beta"",""size"":"" 100mcg""}]}",1,2
+Mircera 50mcg/0.3ml,syring,760,methoxy polyethylene glycol epoetln beta 50mcg,"{""comp"":[{""name"":""methoxy polyethylene glycol epoetln beta"",""size"":"" 50mcg""}]}",1,2
+Mircera 75mcg/0.3ml,syring,1100,methoxy polyethylene glycol epoetln beta 75mcg,"{""comp"":[{""name"":""methoxy polyethylene glycol epoetln beta"",""size"":"" 75mcg""}]}",1,2
+Alzental 200mg,tab,1.5,albendazole 200mg,"{""comp"":[{""name"":""albendazole"",""size"":""200mg""}]}",1,3
+Alzental 20mg/11mI,susp,2.35,albendazole 100mg,"{""comp"":[{""name"":""albendazole"",""size"":""100mg""}]}",1,3
+Antizole 100mg/5ml,susp,3.75,albendazole 100mg,"{""comp"":[{""name"":""albendazole"",""size"":""100mg""}]}",1,3
+Antizole 200mg ,tab,2,albendazole 200mg,"{""comp"":[{""name"":""albendazole"",""size"":""200mg""}]}",1,3
+Bendax 100mg/Sml,susp,5,albendazole 100mg,"{""comp"":[{""name"":""albendazole"",""size"":""100mg""}]}",1,3
+Bendax 200mg,tab,3.25,albendazole 200mg,"{""comp"":[{""name"":""albendazole"",""size"":""200mg""}]}",1,3
+VermTzole 200mg,tab,3.25,albendazole 200mg,"{""comp"":[{""name"":""albendazole"",""size"":""200mg""}]}",1,3
+Vermizole 200mg/5ml,susp,4.5,albendazole 200mg,"{""comp"":[{""name"":""albendazole"",""size"":""200mg""}]}",1,3
+Ammoniated mercury,oint,3.5,ammoniated mercury 5%,"{""comp"":[{""name"":""ammoniated mercury"",""size"":""5%""}]}",1,3
+Fiub100mg,tab,2.25,flubendazol 100mg,"{""comp"":[{""name"":""flubendazol"",""size"":""100mg""}]}",1,3
+Flub 20mg/1 ml,susp,2.25,flubendazol 20mg,"{""comp"":[{""name"":""flubendazol"",""size"":""20mg""}]}",1,3
+Flubenazol,tab,2.25,flubendazol 100mg,"{""comp"":[{""name"":""flubendazol"",""size"":""100mg""}]}",1,3
+Fluver 100mg,tab,2.1,flubendazol 100mg,"{""comp"":[{""name"":""flubendazol"",""size"":""100mg""}]}",1,3
+Fluver 20mg/1ml,susp,2.25,flubendazol 20mg,"{""comp"":[{""name"":""flubendazol"",""size"":""20mg""}]}",1,3
+Fluvermal 100mg,tab,12,flubendazol 100mg,"{""comp"":[{""name"":""flubendazol"",""size"":""100mg""}]}",1,3
+Fluvermal 20mg/ml,susp,5,flubendazol 20mg,"{""comp"":[{""name"":""flubendazol"",""size"":""20mg""}]}",1,3
+Verm all 100mg,tab,2.5,flubendazol 100mg,"{""comp"":[{""name"":""flubendazol"",""size"":""100mg""}]}",1,3
+Verm all 20mg/ml,susp,2.75,flubendazol 20mg,"{""comp"":[{""name"":""flubendazol"",""size"":""20mg""}]}",1,3
+Belicide,tab,5,praziquantel 600mg,"{""comp"":[{""name"":""praziquantel"",""size"":"" 600mg""}]}",1,3
+Biltricide 600mg,tab,8.95,praziquantel 600mg,"{""comp"":[{""name"":""praziquantel"",""size"":"" 600mg""}]}",1,3
+Distocide 600mg,tab,9.45,praziquantel 600mg,"{""comp"":[{""name"":""praziquantel"",""size"":"" 600mg""}]}",1,3
+Epiquantel 600mg,tab,5,praziquantel 600mg,"{""comp"":[{""name"":""praziquantel"",""size"":"" 600mg""}]}",1,3
+Epiquantel 600mg/5ml,susp,5,praziquantel 600mg,"{""comp"":[{""name"":""praziquantel"",""size"":"" 600mg""}]}",1,3
+Praziquantel 600mg,tab,4.5,praziquantel 600mg,"{""comp"":[{""name"":""praziquantel"",""size"":"" 600mg""}]}",1,3
+Amikacin 100mg/2ml,vial,3,amikacin 100mg,"{""comp"":[{""name"":""amikacin"",""size"":"" 100mg""}]}",1,4
+Amikacin 250mg/2ml,vial,4.5,amikacin 250mg,"{""comp"":[{""name"":""amikacin"",""size"":"" 250mg""}]}",1,4
+Amikacin 500mg/2ml,vial,9,amikacin 500mg,"{""comp"":[{""name"":""amikacin"",""size"":"" 500mg""}]}",1,4
+Amikaskiv 500mg/2ml,vial,9,amikacin 500mg,"{""comp"":[{""name"":""amikacin"",""size"":"" 500mg""}]}",1,4
+Amikin 100mg/2ml,vial,4.85,amikacin 100mg,"{""comp"":[{""name"":""amikacin"",""size"":"" 100mg""}]}",1,4
+Amikin 250mg/2ml,vial,8,amikacin 250mg,"{""comp"":[{""name"":""amikacin"",""size"":"" 250mg""}]}",1,4
+Amikin 500mg/2ml,vial,15,amikacin 500mg,"{""comp"":[{""name"":""amikacin"",""size"":"" 500mg""}]}",1,4
+Likacin 500,vial,12.5,amikacin 500mg,"{""comp"":[{""name"":""amikacin"",""size"":"" 500mg""}]}",1,4
+Epigent 20mg/2ml,amp,2.3,gentamicin 20mg,"{""comp"":[{""name"":""gentamicin"",""size"":""20mg""}]}",1,4
+Epigent 80mg/2ml,amp,4,gentamicin 80mg,"{""comp"":[{""name"":""gentamicin"",""size"":""80mg""}]}",1,4
+Garamycin 20mg/2ml,amp,6,gentamicin 20mg,"{""comp"":[{""name"":""gentamicin"",""size"":""20mg""}]}",1,4
+Garamycin 40mg/1ml,amp,8.6,gentamicin 40mg,"{""comp"":[{""name"":""gentamicin"",""size"":""40mg""}]}",1,4
+Garamycin 80mg/2ml,amp,8.6,gentamicin 80mg,"{""comp"":[{""name"":""gentamicin"",""size"":""80mg""}]}",1,4
+Gentamicin 20mg/2ml,amp,6,gentamicin 20mg,"{""comp"":[{""name"":""gentamicin"",""size"":""20mg""}]}",1,4
+Gentamicin 40,amp,5.1,gentamicin 40mg,"{""comp"":[{""name"":""gentamicin"",""size"":""40mg""}]}",1,4
+Gentamicin 40mg/ml,amp,3.45,gentamicin 40mg,"{""comp"":[{""name"":""gentamicin"",""size"":""40mg""}]}",1,4
+Gentamicin 80mg/2ml,amp,6,gentamicin 80mg,"{""comp"":[{""name"":""gentamicin"",""size"":""80mg""}]}",1,4
+Refobacin 10mg,amp,2.35,gentamicin 10mg,"{""comp"":[{""name"":""gentamicin"",""size"":""10mg""}]}",1,4
+Refobacin 40mg,amp,4,gentamicin 40mg,"{""comp"":[{""name"":""gentamicin"",""size"":""40mg""}]}",1,4
+Refobacin 80mg,amp,7,gentamicin 80mg,"{""comp"":[{""name"":""gentamicin"",""size"":""80mg""}]}",1,4
+Rigaminol 20mg,amp,1.25,gentamicin 20mg,"{""comp"":[{""name"":""gentamicin"",""size"":""20mg""}]}",1,4
+Rigaminol 40mg/ml,amp,3.35,gentamicin 40mg,"{""comp"":[{""name"":""gentamicin"",""size"":""40mg""}]}",1,4
+Riaaminol 80ma/2ml,amp,5.65,gentamicin 80mg,"{""comp"":[{""name"":""gentamicin"",""size"":""80mg""}]}",1,4
+Neomycin,susp,1,neomycin 200mg,"{""comp"":[{""name"":""neomycin"",""size"":"" 200mg""}]}",1,4
+Neomycin 500mg,tab,6,neomycin 500mg,"{""comp"":[{""name"":""neomycin"",""size"":""500mg""}]}",1,4
+Tienam 500mg i.m,vial,96,"cilastatin 500mg, imipenem 500mg","{""comp"":[{""name"":""cilastatin"",""size"":""500mg""},{""name"":""imipenem "",""size"":""500mg""}]}",1,5
+Tienam 500mg i.v,vial,96,"cilastatin 500mg, imipenem 500mg","{""comp"":[{""name"":""cilastatin"",""size"":""500mg""},{""name"":"" imipenem"",""size"":""500mg""}]}",1,5
+lnvanz 1g,vial,285,ertapenem 1 g,"{""comp"":[{""name"":""ertapenem"",""size"":""1000mg""}]}",1,5
+Meronem 1gm i.v.,vial,1027.5,meropenem 1000mg,"{""comp"":[{""name"":""meropenem"",""size"":""1000mg""}]}",1,5
+Meronem 500mg i.v.,vial,800,meropenem 500mg,"{""comp"":[{""name"":""meropenem"",""size"":""500mg""}]}",1,5
+Azactam 1gm,vial,35,aztreonam 1000mg,"{""comp"":[{""name"":""aztreonam"",""size"":""1000mg""}]}",1,6
+Azactam 1gm,vial,18.6,aztreonam 500mg,"{""comp"":[{""name"":""aztreonam"",""size"":""500mg""}]}",1,6
+Biodroxil 1g,tab,12.5,cefadroxil 1000mg,"{""comp"":[{""name"":""cefadroxil"",""size"":""1000mg""}]}",1,7
+Biodroxil 250mg/5ml,susp,8.75,cefadroxil 250mg,"{""comp"":[{""name"":""cefadroxil"",""size"":""250mg""}]}",1,7
+Biodroxil 500mg,cap,8.5,cefadroxil 500mg,"{""comp"":[{""name"":""cefadroxil"",""size"":""500mg""}]}",1,7
+Biodroxil 500mg/5ml,susp,12.5,cefadroxil 500mg,"{""comp"":[{""name"":""cefadroxil"",""size"":""500mg""}]}",1,7
+Cefadroxil 1gm,disp.tab,10,cefadroxil 1000mg,"{""comp"":[{""name"":""cefadroxil"",""size"":""1000mg""}]}",1,7
+Cefadroxil 250mg/5ml,susp,5.5,cefadroxil 250mg,"{""comp"":[{""name"":""cefadroxil"",""size"":""250mg""}]}",1,7
+Cefadroxil 500gm,cap,5.5,cefadroxil 500mg,"{""comp"":[{""name"":""cefadroxil"",""size"":""500mg""}]}",1,7
+Cefex 1 gm,tab,10,cefadroxil 1000mg,"{""comp"":[{""name"":""cefadroxil"",""size"":""1000mg""}]}",1,7
+Cephadrol 125,susp,4,ceradroxil 125mg,"{""comp"":[{""name"":""cefadroxil"",""size"":""125mg""}]}",1,7
+Cephadrol 250,susp,7,cefadroxil 250mg,"{""comp"":[{""name"":""cefadroxil"",""size"":""250mg""}]}",1,7
+Curisafe 100mg/1ml,drops,2.75,cefadroxil 100mg,"{""comp"":[{""name"":""cefadroxil"",""size"":""100mg""}]}",1,7
+Curisafe 125mg/5ml,susp,6,ceradroxil 125mg,"{""comp"":[{""name"":""cefadroxil"",""size"":""125mg""}]}",1,7
+Curisafe 1gm,tab,10,cefadroxil 1000mg,"{""comp"":[{""name"":""cefadroxil"",""size"":""1000mg""}]}",1,7
+Curisafe 250mg/5ml,susp,8,cefadroxil 250mg,"{""comp"":[{""name"":""cefadroxil"",""size"":""250mg""}]}",1,7
+Curisafe 500mg,cap,8,cefadroxil 500mg,"{""comp"":[{""name"":""cefadroxil"",""size"":""500mg""}]}",1,7
+Curlsafe 500mg/5ml,susp,11,cefadroxil 500mg,"{""comp"":[{""name"":""cefadroxil"",""size"":""500mg""}]}",1,7
+Durabiotic 500mg,cap,9,cefadroxil 500mg,"{""comp"":[{""name"":""cefadroxil"",""size"":""500mg""}]}",1,7
+Duricef 100,drops,4.25,cefadroxil 100mg,"{""comp"":[{""name"":""cefadroxil"",""size"":""100mg""}]}",1,7
+Duricef 125mg/5ml,susp,6.3,ceradroxil 125mg,"{""comp"":[{""name"":""cefadroxil"",""size"":""125mg""}]}",1,7
+Duricef 1g,tab,12.5,cefadroxil 1000mg,"{""comp"":[{""name"":""cefadroxil"",""size"":""1000mg""}]}",1,7
+Duricef 250mg,cap,5.9,cefadroxil 250mg,"{""comp"":[{""name"":""cefadroxil"",""size"":""250mg""}]}",1,7
+Duricef 250mg/5ml,susp,12,cefadroxil 250mg,"{""comp"":[{""name"":""cefadroxil"",""size"":""250mg""}]}",1,7
+Bacticlor 125mg/5ml,susp,12,cefaclor 125mg,"{""comp"":[{""name"":""cefaclor"",""size"":""125mg""}]}",1,7
+Bacticlor 250/5ml,susp,22.5,cefaclor 250mg,"{""comp"":[{""name"":""cefaclor"",""size"":""250mg""}]}",1,7
+Bacticlor 250mg,cap,22.5,cefaclor 250mg,"{""comp"":[{""name"":""cefaclor"",""size"":""250mg""}]}",1,7
+Bacticlor 500mg,cap,33,cefaclor 500mg,"{""comp"":[{""name"":""cefaclor"",""size"":""500mg""}]}",1,7
+Ceclor 125mg/5ml,susp,18,cefaclor 125mg,"{""comp"":[{""name"":""cefaclor"",""size"":""125mg""}]}",1,7
+Ceclor 250mg/5ml,susp,34,cefaclor 250mg,"{""comp"":[{""name"":""cefaclor"",""size"":""250mg""}]}",1,7
+Cefaclor 125mg,susp,14,cefaclor 125mg,"{""comp"":[{""name"":""cefaclor"",""size"":""125mg""}]}",1,7
+Cefaclor 250mg,cap,21,cefaclor 250mg,"{""comp"":[{""name"":""cefaclor"",""size"":""250mg""}]}",1,7
+Cefaclor 250mg,susp,22,cefaclor 250mg,"{""comp"":[{""name"":""cefaclor"",""size"":""250mg""}]}",1,7
+Cefaclor 500mg,cap,31.5,cefaclor 500mg,"{""comp"":[{""name"":""cefaclor"",""size"":""500mg""}]}",1,7
+Cloracef mr 500mg,tab,38,cefaclor 500mg,"{""comp"":[{""name"":""cefaclor"",""size"":""500mg""}]}",1,7
+Cloracef mr 750mg,tab,50,cefaclor 750mg,"{""comp"":[{""name"":""cefaclor"",""size"":""750mg""}]}",1,7
+Clorocef 250mg/5ml,susp,22.5,cefaclor 250mg,"{""comp"":[{""name"":""cefaclor"",""size"":""250mg""}]}",1,7
+Misaclor 125mg/5ml,susp,19,cefaclor 125mg,"{""comp"":[{""name"":""cefaclor"",""size"":""125mg""}]}",1,7
+Serviclor 125mg/5ml,susp,17,cefaclor 125mg,"{""comp"":[{""name"":""cefaclor"",""size"":""125mg""}]}",1,7
+Serviclor 250mg,cap,27,cefaclor 250mg,"{""comp"":[{""name"":""cefaclor"",""size"":""250mg""}]}",1,7
+Serviclor 250mg/5ml,susp,29,cefaclor 250mg,"{""comp"":[{""name"":""cefaclor"",""size"":""250mg""}]}",1,7
+Serviclor 500mg,cap,33,cefaclor 500mg,"{""comp"":[{""name"":""cefaclor"",""size"":""500mg""}]}",1,7
+Cefzil 125mg/5ml,susp,18.5,cefprozil 125mg,"{""comp"":[{""name"":""cefprozil"",""size"":""125mg""}]}",1,7
+Cefzil 250mg,tab,55,cefprozil 250mg,"{""comp"":[{""name"":""cefprozil"",""size"":""250mg""}]}",1,7
+Cefzil 250mg/5ml,susp,25,cefprozil 250mg,"{""comp"":[{""name"":""cefprozil"",""size"":""250mg""}]}",1,7
+Cefzil 500mg,tab,47,cefprozil 500mg,"{""comp"":[{""name"":""cefprozil"",""size"":""500mg""}]}",1,7
+Cedenir 125mg/5ml,SUSP,30,cefdinir 125mg,"{""comp"":[{""name"":""cefdinir"",""size"":""125mg""}]}",1,7
+Cedenir 300mg,cap,45,cefdinir 300mg,"{""comp"":[{""name"":""cefdinir"",""size"":""300mg""}]}",1,7
+Cefathird 125mg/5ml,SUSP,27,cefdinir 125mg,"{""comp"":[{""name"":""cefdinir"",""size"":""125mg""}]}",1,7
+Cefathird 300mg,cap,45,cefdinir 300mg,"{""comp"":[{""name"":""cefdinir"",""size"":""300mg""}]}",1,7
+Cefdin 125mg/5ml,SUSP,34,cefdinir 125mg,"{""comp"":[{""name"":""cefdinir"",""size"":""125mg""}]}",1,7
+Cefdin 300mg,cap,63,cefdinir 300mg,"{""comp"":[{""name"":""cefdinir"",""size"":""300mg""}]}",1,7
+Denrocef 125mg/5ml,SUSP,27,cefdinir 125mg,"{""comp"":[{""name"":""cefdinir"",""size"":""125mg""}]}",1,7
+Denrocef 300mg,cap,45,cefdinir 300mg,"{""comp"":[{""name"":""cefdinir"",""size"":""300mg""}]}",1,7
+Dinar 125mg/5ml,SUSP,33,cefdinir 125mg,"{""comp"":[{""name"":""cefdinir"",""size"":""125mg""}]}",1,7
+Dinar 300mg,cap,46,cefdinir 300mg,"{""comp"":[{""name"":""cefdinir"",""size"":""300mg""}]}",1,7
+Maxdinir 250mg/5ml,SUSP,32,cefdinir 250mg,"{""comp"":[{""name"":""cefdinir"",""size"":""250mg""}]}",1,7
+Omnicef 125mg/5ml,SUSP,50,cefdinir 125mg,"{""comp"":[{""name"":""cefdinir"",""size"":""125mg""}]}",1,7
+Omnicef 300mg,cap,100,cefdinir 300mg,"{""comp"":[{""name"":""cefdinir"",""size"":""300mg""}]}",1,7
+Rame dinir 125mg/5ml,SUSP,20,cefdinir 125mg,"{""comp"":[{""name"":""cefdinir"",""size"":""125mg""}]}",1,7
+Rame dinir 250mg/5ml,SUSP,32,cefdinir 250mg,"{""comp"":[{""name"":""cefdinir"",""size"":""250mg""}]}",1,7
+Meiacton 200mg,tab,100,cefditoren pivoxil 200mg,"{""comp"":[{""name"":""cefditoren pivoxil"",""size"":""200mg""}]}",1,7
+Cefixime 100mg/5ml,SUSP,18,cefixime 100mg,"{""comp"":[{""name"":""cefixime"",""size"":""100mg""}]}",1,7
+Flavicef 100mg/5ml,SUSP,24,cefixime 100mg,"{""comp"":[{""name"":""cefixime"",""size"":""100mg""}]}",1,7
+Hebixime 100mg/5ml,SUSP,16,cefixime 100mg,"{""comp"":[{""name"":""cefixime"",""size"":""100mg""}]}",1,7
+Hebixime 200mg,cap,32,cefixime 200mg,"{""comp"":[{""name"":""cefixime"",""size"":""200mg""}]}",1,7
+Hebixime 400mg,cap,30.75,cefixime 400mg,"{""comp"":[{""name"":""cefixime"",""size"":""400mg""}]}",1,7
+Suprax 100mg/5ml,susp,24,cefixime 100mg,"{""comp"":[{""name"":""cefixime"",""size"":""100mg""}]}",1,7
+Suprax 200mg,cap,50,cefixime 200mg,"{""comp"":[{""name"":""cefixime"",""size"":""200mg""}]}",1,7
+Suprax 400mg,cap,60,cefixime 400mg,"{""comp"":[{""name"":""cefixime"",""size"":""400mg""}]}",1,7
+Ximacef 100mg/5ml,susp,20,cefixime 100mg,"{""comp"":[{""name"":""cefixime"",""size"":""100mg""}]}",1,7
+Ximacef 200mg,cap,42,cefixime 200mg,"{""comp"":[{""name"":""cefixime"",""size"":""200mg""}]}",1,7
+Ximacef 400mg,cap,42,cefixime 400mg,"{""comp"":[{""name"":""cefixime"",""size"":""400mg""}]}",1,7
+Cefazone 1g,vial,13.5,cefoperazone 1000mg ,"{""comp"":[{""name"":""cefoperazone"",""size"":""1000mg""}]}",1,7
+Cefazone 500mg,vial,7.5,cefoperazone 500mg ,"{""comp"":[{""name"":""cefoperazone"",""size"":""500mg""}]}",1,7
+Cefobid 1g,vial,28,cefoperazone 1000mg ,"{""comp"":[{""name"":""cefoperazone"",""size"":""1000mg""}]}",1,7
+Cefobid 2g,vial,34,cefoperazone 2000mg ,"{""comp"":[{""name"":""cefoperazone"",""size"":""2000mg""}]}",1,7
+Cefobid 500mg,vial,16,cefoperazone 500mg ,"{""comp"":[{""name"":""cefoperazone"",""size"":""500mg""}]}",1,7
+Cefoperazon 1000,vial,15.75,cefoperazone 1000mg ,"{""comp"":[{""name"":""cefoperazone"",""size"":""1000mg""}]}",1,7
+Cefoperazon 500,vial,9.4,cefoperazone 500mg ,"{""comp"":[{""name"":""cefoperazone"",""size"":""500mg""}]}",1,7
+Cefoperazon 1g,vial,10,cefoperazone 1000mg ,"{""comp"":[{""name"":""cefoperazone"",""size"":""1000mg""}]}",1,7
+Cefozon 1g,vial,14.2,cefoperazone 1000mg ,"{""comp"":[{""name"":""cefoperazone"",""size"":""1000mg""}]}",1,7
+Cefozon 2g,vial,18,cefoperazone 2g,"{""comp"":[{""name"":""cefoperazone"",""size"":""2g""}]}",1,7
+Cefozon 500mg,vial,7.5,cefoperazone 500mg ,"{""comp"":[{""name"":""cefoperazone"",""size"":""500mg""}]}",1,7
+Cefrazon 1g ,vial,12,cefoperazone 1000mg ,"{""comp"":[{""name"":""cefoperazone"",""size"":""1000mg""}]}",1,7
+Cefrazon 500mg ,vial,7,cefoperazone 500mg ,"{""comp"":[{""name"":""cefoperazone"",""size"":""500mg""}]}",1,7
+Cefrone 1g,vial,14,cefoperazone 1000mg ,"{""comp"":[{""name"":""cefoperazone"",""size"":""1000mg""}]}",1,7
+Cefrone 500mg,vial,7,cefoperazone 500mg ,"{""comp"":[{""name"":""cefoperazone"",""size"":""500mg""}]}",1,7
+Maxibiotic 2g,vial,18,cefoperazone 2g,"{""comp"":[{""name"":""cefoperazone"",""size"":""2g""}]}",1,7
+Peracef 1000,vial,12.85,cefoperazone 1000mg ,"{""comp"":[{""name"":""cefoperazone"",""size"":""1000mg""}]}",1,7
+Cefepime 1gm,vial,21,cefepime 1g,"{""comp"":[{""name"":""cefepime"",""size"":""1g""}]}",1,7
+Cefepime 2gm,vial,36,cefepime 2g,"{""comp"":[{""name"":""cefepime"",""size"":""2g""}]}",1,7
+Cefepime 500mg,vial,14,cefepime 500mg ,"{""comp"":[{""name"":""cefepime"",""size"":""500mg""}]}",1,7
+Curafep 1gm,vial,21,cefepime 1g,"{""comp"":[{""name"":""cefepime"",""size"":""1g""}]}",1,7
+Forcetex 1gm,vial,21,cefepime 1g,"{""comp"":[{""name"":""cefepime"",""size"":""1g""}]}",1,7
+Forcetex 2gm,vial,40,cefepime 2g,"{""comp"":[{""name"":""cefepime"",""size"":""2g""}]}",1,7
+Forcetex 500mg,vial,14,cefepime 500mg ,"{""comp"":[{""name"":""cefepime"",""size"":""500mg""}]}",1,7
+Maxipime 1g,vial,38,cefepime 1g,"{""comp"":[{""name"":""cefepime"",""size"":""1g""}]}",1,7
+Maxipime 2g,vial,72,cefepime 2g,"{""comp"":[{""name"":""cefepime"",""size"":""2g""}]}",1,7
+Maxipime 500mg,vial,22,cefepime 500mg ,"{""comp"":[{""name"":""cefepime"",""size"":""500mg""}]}",1,7
+Onsime 1gm,vial,17,cefepime 1g,"{""comp"":[{""name"":""cefepime"",""size"":""1g""}]}",1,7
+Onsime 500mg,vial,11,cefepime 500mg ,"{""comp"":[{""name"":""cefepime"",""size"":""500mg""}]}",1,7
+Pimfast 1gm,vial,19,cefepime 1g,"{""comp"":[{""name"":""cefepime"",""size"":""1g""}]}",1,7
+Pimfast 2gm,vial,32,cefepime 2g,"{""comp"":[{""name"":""cefepime"",""size"":""2g""}]}",1,7
+Vanzapro 1g,vial,21,cefepime 1g,"{""comp"":[{""name"":""cefepime"",""size"":""1g""}]}",1,7
+Vanzapro 2g,vial,40,cefepime 2g,"{""comp"":[{""name"":""cefepime"",""size"":""2g""}]}",1,7
+Wincef 1gm,vial,21,cefepime 1g,"{""comp"":[{""name"":""cefepime"",""size"":""1g""}]}",1,7
+Wincef 500mg,vial,14,cefpirome 500mg,"{""comp"":[{""name"":""cefepime"",""size"":""500mg""}]}",1,7
+Cefpirome 1gm,vial,34,cefpirome 1000mg,"{""comp"":[{""name"":""cefepime"",""size"":""1000mg""}]}",1,7
+Cefrom 1gm,vial,60,cefpirome 1000mg,"{""comp"":[{""name"":""cefepime"",""size"":""1000mg""}]}",1,7
+Cefrom 500mg,vial,35,cefpirome 500mg,"{""comp"":[{""name"":""cefepime"",""size"":""500mg""}]}",1,7
+Candeurazole 150,cap,10,fluconazole 150 mg,"{""comp"":[{""name"":""fluconazole"",""size"":""150mg""}]}",1,8
+Diflucan 150mg,cap,27,fluconazole 150 mg,"{""comp"":[{""name"":""fluconazole"",""size"":""150mg""}]}",1,8
+Diflucan 2mg/1 m,vial,70,fluconazole 2 mg,"{""comp"":[{""name"":""fluconazole"",""size"":""2mg""}]}",1,8
+Diflucan 50mg,cap,68,fluconazole 50 mg,"{""comp"":[{""name"":""fluconazole"",""size"":""50mg""}]}",1,8
+flocazole 150mg,cap,18,fluconazole 150 mg,"{""comp"":[{""name"":""fluconazole"",""size"":""150mg""}]}",1,8
+flucand 2mg/ml ,vial,40,fluconazole 2 mg,"{""comp"":[{""name"":""fluconazole"",""size"":""2mg""}]}",1,8
+Flucoral150mg,cap,60,fluconazole 150 mg,"{""comp"":[{""name"":""fluconazole"",""size"":""150mg""}]}",1,8
+Flucoral 150 m,cap,14.6,fluconazole 150 mg,"{""comp"":[{""name"":""fluconazole"",""size"":""150mg""}]}",1,8
+Fluctobar 2mg/1 m l,vial,25,fluconazole 2 mg,"{""comp"":[{""name"":""fluconazole"",""size"":""2mg""}]}",1,8
+Fun9ican 150mg,cap,10,fluconazole 150 mg,"{""comp"":[{""name"":""fluconazole"",""size"":""150mg""}]}",1,8
+Naviluca 2mg/m,vial,28,fluconazole 2 mg,"{""comp"":[{""name"":""fluconazole"",""size"":""2mg""}]}",1,8
+Treflucan 150mg,cap,8,fluconazole 150 mg,"{""comp"":[{""name"":""fluconazole"",""size"":""150mg""}]}",1,8
+Triconal 150mg,cap,14.7,fluconazole 150 mg,"{""comp"":[{""name"":""fluconazole"",""size"":""150mg""}]}",1,8
+Triconal 50mg,cap,35.3,fluconazole 50 mg,"{""comp"":[{""name"":""fluconazole"",""size"":""50mg""}]}",1,8
+Fulvin,tab,3.2,griseofulvin 125mg,"{""comp"":[{""name"":""griseofulvin"",""size"":""125mg""}]}",1,8
+Grlseovin 125ml,susp,5.25,griseofulvin 125mg,"{""comp"":[{""name"":""griseofulvin"",""size"":""125mg""}]}",1,8
+Ultrafu lvin 125mg,tab,3,griseofulvin 125mg,"{""comp"":[{""name"":""griseofulvin"",""size"":""125mg""}]}",1,8
+Ultra9riseofu lvin 125mg,tab,3.5,griseofulvin 125mg,"{""comp"":[{""name"":""griseofulvin"",""size"":""125mg""}]}",1,8
+Ultra9riseofulvin 2.5% ,susp,4.5,griseofulvin 2.5%,"{""comp"":[{""name"":""griseofulvin"",""size"":""2.5%""}]}",1,8
+Arozole 100mg,cap,56,itraconazole 100mg,"{""comp"":[{""name"":""itraconazole"",""size"":""100mg""}]}",1,8
+Fun9itranazole 100,cap,13,itraconazole 100mg,"{""comp"":[{""name"":""itraconazole"",""size"":""100mg""}]}",1,8
+ltracon 100m9,cap,63,itraconazole 100mg,"{""comp"":[{""name"":""itraconazole"",""size"":""100mg""}]}",1,8
+ltrafungex 100mg,cap,15,itraconazole 100mg,"{""comp"":[{""name"":""itraconazole"",""size"":""100mg""}]}",1,8
+ltrafungizole 100mg,cap,36,itraconazole 100mg,"{""comp"":[{""name"":""itraconazole"",""size"":""100mg""}]}",1,8
+ltranox 100mg,cap,48,itraconazole 100mg,"{""comp"":[{""name"":""itraconazole"",""size"":""100mg""}]}",1,8
+ltrapex 100mg,cap,60,itraconazole 100mg,"{""comp"":[{""name"":""itraconazole"",""size"":""100mg""}]}",1,8
+Sporanox 100mg,cap,42,itraconazole 100mg,"{""comp"":[{""name"":""itraconazole"",""size"":""100mg""}]}",1,8
+Fungizole,cap,22,ketoconazole 200mg,"{""comp"":[{""name"":""ketoconazole"",""size"":""200mg""}]}",1,8
+Ketoconazole ,tab,20,ketoconazole 200mg,"{""comp"":[{""name"":""ketoconazole"",""size"":""200mg""}]}",1,8
+Ketozol,tab,22,ketoconazole 200mg,"{""comp"":[{""name"":""ketoconazole"",""size"":""200mg""}]}",1,8
+Kizol 200mg,tab,18,ketoconazole 200mg,"{""comp"":[{""name"":""ketoconazole"",""size"":""200mg""}]}",1,8
+Nizoral 200mg,tab,33.9,terbinafine 250mg,"{""comp"":[{""name"":""terbinafine"",""size"":""250mg""}]}",1,8
+Fungisafe 250mg,tab,32,terbinafine 250mg,"{""comp"":[{""name"":""terbinafine"",""size"":""250mg""}]}",1,8
+Lamifen 125mg,tab,34,terbinafine 250mg,"{""comp"":[{""name"":""terbinafine"",""size"":""250mg""}]}",1,8
+Lamifen 250mg,tab,52,terbinafine 250mg,"{""comp"":[{""name"":""terbinafine"",""size"":""250mg""}]}",1,8
+Lamisil 125mg,tab,44,terbinafine 250mg,"{""comp"":[{""name"":""terbinafine"",""size"":""250mg""}]}",1,8
+Lamisil 250mg,tab,85,terbinafine 250mg,"{""comp"":[{""name"":""terbinafine"",""size"":""250mg""}]}",1,8
+Terbin 250mg,tab,26,terbinafine 250mg,"{""comp"":[{""name"":""terbinafine"",""size"":""250mg""}]}",1,8
+Terbinasil 250mg,tab,32,terbinafine 250mg,"{""comp"":[{""name"":""terbinafine"",""size"":""250mg""}]}",1,8
+Vfend 200mg,tab,1950,voriconazole 200 mg,"{""comp"":[{""name"":""voriconazole"",""size"":""200mg""}]}",1,8
+Vfend 200mg 10mg/1m,"vial 
+",712,voriconazole 200 mg,"{""comp"":[{""name"":""voriconazole"",""size"":""200mg""}]}",1,8
+Vfend 50mg,tab,525,voriconazole 200 mg,"{""comp"":[{""name"":""voriconazole"",""size"":""200mg""}]}",1,8
+Alexodiab 1000mg,tab,7.5,metformin 1000mg,"{""comp"":[{""name"":""metformin"",""size"":""1000mg""}]}",1,9
+Amophage 500mg,tab,1.5,metformin 500mg,"{""comp"":[{""name"":""metformin"",""size"":""500mg""}]}",1,9
+Cidophage 1mg,tab,5,metformin 1000mg,"{""comp"":[{""name"":""metformin"",""size"":""1000mg""}]}",1,9
+Cidophage 500mg,tab,2,metformin 500mg,"{""comp"":[{""name"":""metformin"",""size"":""500mg""}]}",1,9
+Cidophage ret. 850,tab,5,metformin 850mg,"{""comp"":[{""name"":""metformin"",""size"":""850mg""}]}",1,9
+Diaformin 500mg,tab,2,melformin 500mg,"{""comp"":[{""name"":""metformin"",""size"":""500mg""}]}",1,9
+Diaphage 1000mg,tab,6,metformin 1000mg,"{""comp"":[{""name"":""metformin"",""size"":""1000mg""}]}",1,9
+Diaphage 500mg,tab,2,melformin 500mg,"{""comp"":[{""name"":""metformin"",""size"":""500mg""}]}",1,9
+Diaphage sr 850mg,tab,6,metformin 850mg,"{""comp"":[{""name"":""metformin"",""size"":""850mg""}]}",1,9
+Diaquit 850mg,tab,6,metformin 850mg,"{""comp"":[{""name"":""metformin"",""size"":""850mg""}]}",1,9
+Glucoformin 500mg,tab,8,metformin 500mg,"{""comp"":[{""name"":""metformin"",""size"":""500mg""}]}",1,9
+Glucolight xr500mg,tab,6,metformin 500mg,"{""comp"":[{""name"":""metformin"",""size"":""500mg""}]}",1,9
+Glucophage 1000mg,tab,13.5,metformin 1000mg,"{""comp"":[{""name"":""metformin"",""size"":""1000mg""}]}",1,9
+Glucophage 500mg,tab,15,metformin 500mg,"{""comp"":[{""name"":""metformin"",""size"":""500mg""}]}",1,9
+Glucophage xr 1000,tab,36,metformin 1000mg,"{""comp"":[{""name"":""metformin"",""size"":""1000mg""}]}",1,9
+Glucophage xr 750,tab,65,metformin 750mg,"{""comp"":[{""name"":""metformin"",""size"":""750mg""}]}",1,9
+Maxophage 1gm,tab,7.5,metformin 1000mg,"{""comp"":[{""name"":""metformin"",""size"":""1000mg""}]}",1,9
+Meglucon 850mg,tab,6,metformin 850mg,"{""comp"":[{""name"":""metformin"",""size"":""850mg""}]}",1,9
+Mepaphage 500mg,tab,3,metformin 500mg,"{""comp"":[{""name"":""metformin"",""size"":""500mg""}]}",1,9
+Metfor 850mg,tab,75,metformin 850mg,"{""comp"":[{""name"":""metformin"",""size"":""850mg""}]}",1,9
+Metformin 500mg,tab,1,metformin 500mg,"{""comp"":[{""name"":""metformin"",""size"":""500mg""}]}",1,9
+Kombiglyze xr 2.5/1000mg,tab,270,"metformin 1000mg, saxagliptin 2.5mg","{""comp"":[{""name"":""metformin"",""size"":""1000mg""},{""name"":""saxagliptin"",""size"":""2.5mg""}]}",1,9
+Kombiglyze xr 5/1000mg,tab,270,"metformin 1000mg, saxagliptin 5mg","{""comp"":[{""name"":""metformin"",""size"":""1000mg""},{""name"":""saxagliptin"",""size"":""5mg""}]}",1,9
+Kombiglyze xr 5/500mg,tab,215,"metformin 500mg, saxagliptin 5mg","{""comp"":[{""name"":""metformin"",""size"":""500mg""},{""name"":""saxagliptin"",""size"":""5mg""}]}",1,9
+Glaptivia Plus 50/1000mg,tab,40,"metformin 1000mg, sitagliptin 50mg","{""comp"":[{""name"":""metformin"",""size"":""1000mg""},{""name"":""sitagliptin"",""size"":""50mg""}]}",1,9
+Glaptivia Plus 50/500mg,tab,38,"metformin 500mg, sitagliptin 50mg","{""comp"":[{""name"":""metformin"",""size"":""500mg""},{""name"":""sitagliptin"",""size"":""50mg""}]}",1,9
+Janumet 50/1000mg,tab,55,"metformin 1000mg, sitagliptin 50mg","{""comp"":[{""name"":""metformin"",""size"":""1000mg""},{""name"":""sitagliptin"",""size"":""50mg""}]}",1,9
+Janumet 50/500mg,tab,220,"metformin 500mg, sitagliptin 50mg","{""comp"":[{""name"":""metformin"",""size"":""500mg""},{""name"":""sitagliptin"",""size"":""50mg""}]}",1,9
+Galvus met 50/1000,tab,105,"metformin 1000mg, vildagliptin 50mg","{""comp"":[{""name"":""metformin"",""size"":""1000mg""},{""name"":""vildagliptin"",""size"":""50mg""}]}",1,9
+Galvus met 50/500,tab,105,"metformin 500mg, vildagliptin 50mg","{""comp"":[{""name"":""metformin"",""size"":""500mg""},{""name"":""vildagliptin"",""size"":""50mg""}]}",1,9
+Galvus met 50/850,tab,105,"metformin 850mg, vildagliptin 50mg","{""comp"":[{""name"":""metformin"",""size"":""850mg""},{""name"":""vildagliptin"",""size"":""50mg""}]}",1,9
+Gliptus 50/1000mg,tab,68.25,"metformin 1000mg, vildagliptin 50mg","{""comp"":[{""name"":""metformin"",""size"":""1000mg""},{""name"":""vildagliptin"",""size"":""50mg""}]}",1,9
+Gliptus 50/850mg,tab,68.25,"metformin 850mg, vildagliptin 50mg","{""comp"":[{""name"":""metformin"",""size"":""850mg""},{""name"":""vildagliptin"",""size"":""50mg""}]}",1,9
+Vildagluse plus 50/1000mg,tab,68.25,"metformin 1000mg, vildagliptin 50mg","{""comp"":[{""name"":""metformin"",""size"":""1000mg""},{""name"":""vildagliptin"",""size"":""50mg""}]}",1,9
+Diavance 1.25mg,tab,9.75,"glibenclamide 1.25mg, metformin 250mg","{""comp"":[{""name"":""glibenclamide"",""size"":""1.25mg""},{""name"":""metformin"",""size"":""250mg""}]}",1,9
+Diavance 2.5mg,tab,14.25,"glibenclamide 2.5mg, metformin 500mg","{""comp"":[{""name"":""glibenclamide"",""size"":""2.5mg""},{""name"":""metformin"",""size"":""500mg""}]}",1,9
+Diavance 5mg,tab,21,"glibenclamide 5mg, metformin 500mg","{""comp"":[{""name"":""glibenclamide"",""size"":""5mg""},{""name"":""metformin"",""size"":""500mg""}]}",1,9
+Euglumide plus 2.5/500,tab,6.25,"glibenclamide 2.5mg, metformin 500mg","{""comp"":[{""name"":""glibenclamide"",""size"":""2.5mg""},{""name"":""metformin"",""size"":""500mg""}]}",1,9
+Euglumide plus 5/500,tab,9.25,"glibenclamide 5mg, metformin 500mg","{""comp"":[{""name"":""glibenclamide"",""size"":""5mg""},{""name"":""metformin"",""size"":""500mg""}]}",1,9
+Glimet,tab,11,"glibenclamide 2.5mg, metformin 400mg","{""comp"":[{""name"":""glibenclamide"",""size"":""2.5mg""},{""name"":""metformin"",""size"":""400mg""}]}",1,9
+Glimet forte,tab,21,"glibenclamide 5mg, metformin 800mg","{""comp"":[{""name"":""glibenclamide"",""size"":""5mg""},{""name"":""metformin"",""size"":""800mg""}]}",1,9
+Glucovance 500/2.5,tab,15,"glibenclamide 2.5mg, metformin 500mg","{""comp"":[{""name"":""glibenclamide"",""size"":""2.5mg""},{""name"":""metformin"",""size"":""500mg""}]}",1,9
+Glucovance 500/5,tab,22,"glibenclamide 5mg, metformin 500mg","{""comp"":[{""name"":""glibenclamide"",""size"":""5mg""},{""name"":""metformin"",""size"":""500mg""}]}",1,9
+Gluokan 5/500mg,tab,10.5,"glibenclamide 5mg, metformin 500mg","{""comp"":[{""name"":""glibenclamide"",""size"":""5mg""},{""name"":""metformin"",""size"":""500mg""}]}",1,9
+Glybformin 500/5,tab,12,"glibenclamide 5mg, metformin 500mg","{""comp"":[{""name"":""glibenclamide"",""size"":""5mg""},{""name"":""metformin"",""size"":""500mg""}]}",1,9
+GJybofen 5/1000mg,tab,12,"glibenclamide 2mg, metformin 1000mg","{""comp"":[{""name"":""glibenclamide"",""size"":""2mg""},{""name"":""metformin"",""size"":""1000mg""}]}",1,9
+Meburide 2.5/500mg,tab,6,glibenclamide 2.5mg. metformin 500mg,"{""comp"":[{""name"":""glibenclamide"",""size"":""2.5mg""},{""name"":""metformin"",""size"":""500mg""}]}",1,9
+Metclamide 2.5/500,tab,9,glibenclamide 2.5mg. metformin 500mg,"{""comp"":[{""name"":""glibenclamide"",""size"":""2.5mg""},{""name"":""metformin"",""size"":""500mg""}]}",1,9
+Metclamide 5/500,tab,10.5,glibenclamide 5mg. metformin 500mg,"{""comp"":[{""name"":""glibenclamide"",""size"":""5mg""},{""name"":""metformin"",""size"":""500mg""}]}",1,9
+Amaryl m,tab,39,glimepiride 2mg. metformin 500mg,"{""comp"":[{""name"":""glimepiride"",""size"":""2mg""},{""name"":""metformin"",""size"":""500mg""}]}",1,9
+Engilor 2.5/500mg,tab,7.5,glipizide 2.5mg. metformin 500mg,"{""comp"":[{""name"":""glipizide"",""size"":""2.5mg""},{""name"":""metformin"",""size"":""500mg""}]}",1,9
+Engilor 5/500mg,tab,9,glipizide 5mg. metformin 500mg,"{""comp"":[{""name"":""glipizide"",""size"":""5mg""},{""name"":""metformin"",""size"":""500mg""}]}",1,9
+Pamidin 250mg,tab,1.5,chlorpropamide 250mg,"{""comp"":[{""name"":""chlorpropamide"",""size"":"" 250mg""}]}",1,9
+Daonil 5mg,tab,6,glibenclamide 5mg ,"{""comp"":[{""name"":""glibenclamide"",""size"":""5mg ""}]}",1,9
+Diaben 5mg,tab,2,glibenclamide 5mg,"{""comp"":[{""name"":""glibenclamide"",""size"":""5mg ""}]}",1,9
+Euglucon,tab,2.75,glibenclamide 5mg,"{""comp"":[{""name"":""glibenclamide"",""size"":""5mg ""}]}",1,9
+Euglumide 5mg,tab,6,glibenclamide 5mg,"{""comp"":[{""name"":""glibenclamide"",""size"":""5mg ""}]}",1,9
+Glibenase 5mg,tab,1.25,glibenclamide 5mg,"{""comp"":[{""name"":""glibenclamide"",""size"":""5mg ""}]}",1,9
+ Semi daonil 2.5mg,tab,2.3,glibenclamide 2.5mg,"{""comp"":[{""name"":""glibenclamide"",""size"":""2.5mg ""}]}",1,9
+Diabetron 40mg,tab,3.75,gliclazide 40mg,"{""comp"":[{""name"":""gliclazide"",""size"":""40mg""}]}",1,9
+Diabetron 80mg,tab,7,gliclazide 80mg,"{""comp"":[{""name"":""gliclazide"",""size"":""80mg""}]}",1,9
+Diabyl 80mg,tab,6.25,gliclazide 80mg,"{""comp"":[{""name"":""gliclazide"",""size"":""80mg""}]}",1,9
+Diamedizen mr 30,tab,8.25,gliclazide 30mg,"{""comp"":[{""name"":""gliclazide"",""size"":""30mg""}]}",1,9
+Diamedizen mr 60,tab,13.5,gliclazide 60mg,"{""comp"":[{""name"":""gliclazide"",""size"":""60mg""}]}",1,9
+Diamicron 80mg,tab,9,gliclazide 80mg,"{""comp"":[{""name"":""gliclazide"",""size"":""80mg""}]}",1,9
+Diamicron mr 30mg,tab,13.5,gliclazide 30mg,"{""comp"":[{""name"":""gliclazide"",""size"":""30mg""}]}",1,9
+Diamicron mr 60mg,tab,17,gliclazide 60mg ,"{""comp"":[{""name"":""gliclazide"",""size"":""60mg""}]}",1,9
+Dianormal 80mg,tab,6.5,gliclazide 80mg,"{""comp"":[{""name"":""gliclazide"",""size"":""80mg""}]}",1,9
+Gli sr 30mg,tab,2.9,gliclazide 30mg,"{""comp"":[{""name"":""gliclazide"",""size"":""30mg""}]}",1,9
+Gliclazide 80mg,tab,9,gliclazide 80mg,"{""comp"":[{""name"":""gliclazide"",""size"":""80mg""}]}",1,9
+Glipicrone 80mg,tab,6.2,gliclazide 80mg,"{""comp"":[{""name"":""gliclazide"",""size"":""80mg""}]}",1,9
+Semi glipicron 40,tab,3.75,gliclazide 40mg,"{""comp"":[{""name"":""gliclazide"",""size"":""40mg""}]}",1,9
+Serviclazide 80mg,tab,3.5,gliclazide 80mg,"{""comp"":[{""name"":""gliclazide"",""size"":""80mg""}]}",1,9
+Unocron mr 30mg,tab,9.75,gliclazide 30mg,"{""comp"":[{""name"":""gliclazide"",""size"":""30mg""}]}",1,9
+Unocron mr 60mg,tab,13.5,gliclazide 60mg,"{""comp"":[{""name"":""gliclazide"",""size"":""60mg""}]}",1,9
+Amaryl 1mg,tab,5.5,glimepiride 1mg ,"{""comp"":[{""name"":""glimepiride"",""size"":""1mg ""}]}",1,9
+Amaryl 2mg,tab,36,glimepiride 2mg  ,"{""comp"":[{""name"":""glimepiride"",""size"":""2mg ""}]}",1,9
+Amaryl 3mg,tab,27,glimepiride 3mg,"{""comp"":[{""name"":""glimepiride"",""size"":""3mg ""}]}",1,9
+Amaryl 4mg,tab,54,glimepiride 4mg,"{""comp"":[{""name"":""glimepiride"",""size"":""4mg ""}]}",1,9
+Conida 4mg,tab,18,glimepiride 4mg,"{""comp"":[{""name"":""glimepiride"",""size"":""4mg ""}]}",1,9
+Diabenor 2mg,tab,4.75,glimepiride 2mg,"{""comp"":[{""name"":""glimepiride"",""size"":""2mg ""}]}",1,9
+Diabenor 3mg,tab,6,glimepiride 3mg,"{""comp"":[{""name"":""glimepiride"",""size"":""3mg ""}]}",1,9
+Diabeto 2mg,tab,6,glimepiride 2mg,"{""comp"":[{""name"":""glimepiride"",""size"":""2mg ""}]}",1,9
+Diabride 1mg,tab,3,glimepiride 1mg,"{""comp"":[{""name"":""glimepiride"",""size"":""1mg ""}]}",1,9
+Diabride 2mg,tab,4.5,glimepiride 2mg,"{""comp"":[{""name"":""glimepiride"",""size"":""2mg ""}]}",1,9
+Diabride 3mg,tab,6,glimepiride 3mg,"{""comp"":[{""name"":""glimepiride"",""size"":""3mg ""}]}",1,9
+Dolcy 1mg,tab,3,glimepiride 1mg,"{""comp"":[{""name"":""glimepiride"",""size"":""1mg ""}]}",1,9
+Dolcy 2mg,tab,13.5,glimepiride 2mg,"{""comp"":[{""name"":""glimepiride"",""size"":""2mg ""}]}",1,9
+Dolcy 3mg,tab,6,glimepiride 3mg,"{""comp"":[{""name"":""glimepiride"",""size"":""3mg ""}]}",1,9
+Dolcy 4mg,tab,6,glimepiride 4mg,"{""comp"":[{""name"":""glimepiride"",""size"":""4mg ""}]}",1,9
+Dolcy 6mg,tab,8,glimepiride 6mg,"{""comp"":[{""name"":""glimepiride"",""size"":""6mg ""}]}",1,9
+Glaryl 1mg,tab,6.75,glimepiride 1mg,"{""comp"":[{""name"":""glimepiride"",""size"":""1mg ""}]}",1,9
+Glaryl 2mg,tab,8.25,glimepiride 2mg,"{""comp"":[{""name"":""glimepiride"",""size"":""2mg ""}]}",1,9
+Glaryl 3mg,tab,13.5,glimepiride 3mg,"{""comp"":[{""name"":""glimepiride"",""size"":""3mg ""}]}",1,9
+Glaryl 4mg,tab,16.5,glimepiride 4mg,"{""comp"":[{""name"":""glimepiride"",""size"":""4mg ""}]}",1,9
+Glemax 4mg,caplet,21,glimepiride 4mg,"{""comp"":[{""name"":""glimepiride"",""size"":""4mg ""}]}",1,9
+Glimadel 1mg,tab,3,glimepiride 1mg,"{""comp"":[{""name"":""glimepiride"",""size"":""1mg ""}]}",1,9
+Glimadel 2mg,tab,4.75,glimepiride 2mg,"{""comp"":[{""name"":""glimepiride"",""size"":""2mg ""}]}",1,9
+Glimadel 3mg,tab,12,glimepiride 3mg,"{""comp"":[{""name"":""glimepiride"",""size"":""3mg ""}]}",1,9
+Glimadel 4mg,tab,7,glimepiride 4mg,"{""comp"":[{""name"":""glimepiride"",""size"":""4mg ""}]}",1,9
+Glimaryl 1mg,tab,3,glimepiride 1mg,"{""comp"":[{""name"":""glimepiride"",""size"":""1mg ""}]}",1,9
+Glimaryl 2mg,tab,14.25,glimepiride 2mg,"{""comp"":[{""name"":""glimepiride"",""size"":""2mg ""}]}",1,9
+Glimaryl 3mg,tab,18,glimepiride 3mg,"{""comp"":[{""name"":""glimepiride"",""size"":""3mg ""}]}",1,9
+Glimitoid 1mg,tab,7.5,glimepiride 1mg,"{""comp"":[{""name"":""glimepiride"",""size"":""1mg ""}]}",1,9
+Glimitoid 2mg,tab,9,glimepiride 2mg,"{""comp"":[{""name"":""glimepiride"",""size"":""2mg ""}]}",1,9
+Glimitoid 4mg,tab,12,glimepiride 4mg,"{""comp"":[{""name"":""glimepiride"",""size"":""4mg ""}]}",1,9
+Glucoless 4mg ,tab,10,glimepiride 4mg,"{""comp"":[{""name"":""glimepiride"",""size"":""4mg ""}]}",1,9
+Glucoryl 2mg,tab,3.75,glimepiride 2mg,"{""comp"":[{""name"":""glimepiride"",""size"":""2mg ""}]}",1,9
+Bioglita pIus 15/500,tab,11,"metformin 500mg, pioglitazone 15mg","{""comp"":[{""name"":""metformin"",""size"":"" 500mg""},{""name"":""pioglitazone"",""size"":""15mg""}]}",1,10
+Bioglita plus 15/850,tab,12,metformin 850mg. pioglitazone 15mg,"{""comp"":[{""name"":""metformin"",""size"":"" 850mg""},{""name"":""pioglitazone"",""size"":""15mg""}]}",1,10
+Glustacomb 15/500,tab,22,metformin 500mg. pioglitazone 15mg,"{""comp"":[{""name"":""metformin"",""size"":"" 500mg""},{""name"":""pioglitazone"",""size"":""15mg""}]}",1,10
+Glustacomb 15/850,tab,24,metformin 850mg. pioglitazone 15mg,"{""comp"":[{""name"":""metformin"",""size"":"" 850mg""},{""name"":""pioglitazone"",""size"":""15mg""}]}",1,10
+Pioglumet 15/850,tab,33,metformln 850mg. pioglitazone 15mg,"{""comp"":[{""name"":""metformin"",""size"":"" 850mg""},{""name"":""pioglitazone"",""size"":""15mg""}]}",1,10
+Avandamet 2/500,tab,40,"metformin 500mg, roslglitazone maleate 2mg","{""comp"":[{""name"":""metformin"",""size"":"" 500mg""},{""name"":"" roslglitazone"",""size"":""2mg""}]}",1,10
+Rosi plus 2/500mg_,tab,18,metformin 500mg. roslglitazone maleate 2mg,"{""comp"":[{""name"":""metformin"",""size"":"" 500mg""},{""name"":"" roslglitazone"",""size"":""2mg""}]}",1,10
+Rosi plus 4/500mg,tab,27,"metformin 500mg, rosiglitazone maleate 4mg","{""comp"":[{""name"":""metformin"",""size"":"" 500mg""},{""name"":"" roslglitazone"",""size"":""4mg""}]}",1,10
+ciloprine,drops,4.8,acedia sulphone0.84%    cinchocaine0.96%   dihydroxymethylcarbamide0.42%,"{""comp"":[{""name"":""acedia sulphone"",""size"":""0.84%""},{""name"":""cinchocaine"",""size"":""0.96%""},{""name"":""dihydroxymethylcarbamide"",""size"":""0.42%""}]}",1,11
+earocure,drops,3,"benzocaine1.4%, oxyuinoline0.5%, phenazone5.4%","{""comp"":[{""name"":""benzocaine"",""size"":""1.4%""},{""name"":""oxyuinoline"",""size"":""0.5%""},{""name"":""phenazone"",""size"":""5.4%""}]}",1,11
+otosept,drops,2.75,bezocaine 100mg phenazone300mg,"{""comp"":[{""name"":""bezocaine"",""size"":""100mg""},{""name"":""phenazone"",""size"":""300mg""}]}",1,11
+tinarin,drops,2.75,"bezocaine 14mg, phenazone54mg","{""comp"":[{""name"":""bezocaine"",""size"":""14mg""},{""name"":""phenazone"",""size"":""54mg""}]}",1,11
+otocalm,drops,1.75,"chlorbuutol1%, phenazone5%","{""comp"":[{""name"":""chlorbuutol"",""size"":""1%""},{""name"":""phenazone"",""size"":""5%""}]}",1,11
+audax,drops,5,"choline salicylate432mg, glycerin 126mg","{""comp"":[{""name"":""choline salicylate"",""size"":""432mg""},{""name"":""glycerin"",""size"":""126mg""}]}",1,11
+otal,drops,5,"cinchocaine 1%,dexamethasone0.1%,gramicidin 0.0025%","{""comp"":[{""name"":""cinchocaine"",""size"":""1%""},{""name"":""dexamethasone"",""size"":""0.1%""},{""name"":""gramicidin"",""size"":""0.0025%""}]}",1,11
+soluwax5%,drops,3.5,sod.docusate5%,"{""comp"":[{""name"":""sod.docusate"",""size"":""5%""}]}",1,11
+ciloprine,drops,4.8, acedia sulphone 0.84%. cinchocalne 0.96% dihydroxymethylcarbamide 0.42%,"{""comp"":[{""name"":""acedia sulphone"",""size"":""0.84%""},{""name"":"" cinchocalne"",""size"":""0.96%""},{""name"":""dihydroxymethylcarbamide"",""size"":""0.42%""}]}",1,11
+cebemyxine,drops,4.5,"bacitracin, neomycin, polymyxin b sulfate","{""comp"":[{""name"":""bacitracin"",""size"":""""},{""name"":"" neomycin"",""size"":""""},{""name"":""polymyxin b sulfate"",""size"":""""}]}",1,11
+cebemyxine,drops,3,"bacitracin, neomycin, polymyxin b sulfate","{""comp"":[{""name"":""bacitracin"",""size"":""""},{""name"":"" neomycin"",""size"":""""},{""name"":""polymyxin b sulfate"",""size"":""""}]}",1,11
+polyspectran,drops,6.5,"bacitracin 30i.u., neomycin 5mg. polymyxin b sulfate 7500i.u.","{""comp"":[{""name"":""bacitracin"",""size"":""30i.u.""},{""name"":"" neomycin"",""size"":""5mg""},{""name"":""polymyxin b sulfate"",""size"":""7500i.u.""}]}",1,11
+zonacip,drops,10,"benzalkonium 0.1 mg. ciprofloxacin 3mg, dexamethasone","{""comp"":[{""name"":""benzalkonium"",""size"":""0.1mg""},{""name"":""ciprofloxacin"",""size"":""3mg""},{""name"":""dexamethasone"",""size"":""""}]}",1,11
+memcocetine5%,drops,2.5,chloramphenicol 5%,"{""comp"":[{""name"":""chloramphenicol"",""size"":""5%""}]}",1,11
+miphenicol 5%,drops,1.8,chloramphenicol 5%,"{""comp"":[{""name"":""chloramphenicol"",""size"":""5%""}]}",1,11
+otophenicol5%,drops,2.5,chloramphenicol 5%,"{""comp"":[{""name"":""chloramphenicol"",""size"":""5%""}]}",1,11
+spersacet c10ml,drops,3.5,chloramphenicol 0.5%. sulphacetamide 10%,"{""comp"":[{""name"":""chloramphenicol"",""size"":""0.5%""},{""name"":""sulphacetamide"",""size"":""10%""}]}",1,11
+otal,drops,5,"cinchocaine 1%. dexamethasone 0.1 %, gramicidin 0.0025%","{""comp"":[{""name"":""cinchocaine"",""size"":""1%""},{""name"":""dexamethasone"",""size"":""0.1%""},{""name"":""gramicidin"",""size"":""0.0025%""}]}",1,11
+ciloxan0.3% 5ml,drops,20,ciprofloxacin 0.3%,"{""comp"":[{""name"":""ciprofloxacin"",""size"":""0.3%""}]}",1,11
+cipro3.5mg/1ml,drops,1.75,tciprofloxacin 3.5mg,"{""comp"":[{""name"":""tciprofloxacin"",""size"":""3.5mg""}]}",1,11
+dropifloxotic 0.3% 5ml,drops,6,ciprofloxacin 0.3%,"{""comp"":[{""name"":""ciprofloxacin"",""size"":""0.3%""}]}",1,11
+ciproxason,drops,10,"ciprofloxacin 3mg, dexamethasone 1mg","{""comp"":[{""name"":""ciprofloxacin"",""size"":""3mg""},{""name"":""dexamethasone"",""size"":""1mg""}]}",1,11
+peopootic,drops,10,ciprolloxacin 3mg. dexamethasone 1mg,"{""comp"":[{""name"":""ciprofloxacin"",""size"":""3mg""},{""name"":""dexamethasone"",""size"":""1mg""}]}",1,11
+ciprocort,drops,7,"ciprofloxacin 0.2%, hydrocortisone 1%","{""comp"":[{""name"":""ciprofloxacin"",""size"":""3mg""},{""name"":""hydrocortisone"",""size"":""1%""}]}",1,11
+locacorten vioform,drops,6.5,clioquinol 1 %. numethasone 0.02%,"{""comp"":[{""name"":""clioquinol"",""size"":""1%""},{""name"":""numethasone"",""size"":""0.02%""}]}",1,11
+Epcifam plus ,tap,5,"aluminium hydroxide 250mg, famotidine10mg ,mg hydroxide 250mg","{""comp"":[{""name"":""aluminium hydroxide"",""size"":""250mg""},{""name"":""famotidine"",""size"":""10mg""},{""name"":""mg hydroxide"",""size"":""250mg""}]}",1,12
+Mucogel,susp,1.8," aluminium hydroxide 8.1%, mg hydroxide 2%. oxethazine 0.2%","{""comp"":[{""name"":""aluminium hydroxide"",""size"":""8.1%""},{""name"":""oxethazine"",""size"":""0.2%""},{""name"":""mg hydroxide"",""size"":""2%""}]}",1,12
+antodine,chew.tap,5," calcium carbonate 667mg, famotidine 10mg, mg hydroxide 200mg","{""comp"":[{""name"":""calcium carbonate"",""size"":""667mg""},{""name"":""famotidine"",""size"":""10mg""},{""name"":""mg hydroxide"",""size"":""200mg""}]}",1,12
+famo plus,chew.tap,8.5," calcium carbonate 800mg, famotidine 10mg, mg hydroxide 165mg","{""comp"":[{""name"":""calcium carbonate"",""size"":""800mg""},{""name"":""famotidine"",""size"":""10mg""},{""name"":""mg hydroxide"",""size"":""156mg""}]}",1,12
+peptifix,chew.tap,12.75," calcium carbonate 800mg, famotidine 10mg, mg hydroxide 165mg","{""comp"":[{""name"":""calcium carbonate"",""size"":""667mg""},{""name"":""famotidine"",""size"":""10mg""},{""name"":""mg hydroxide"",""size"":""200mg""}]}",1,12
+neutra max,susp,11,"calcium carbonate 600mg, mg carbonate 70mg, sod. alginate 150mg","{""comp"":[{""name"":""calcium carbonate"",""size"":""600mg""},{""name"":""mg carbonate"",""size"":""70mg""},{""name"":""sod. alginate"",""size"":""150mg""}]}",1,12
+gaviscon,chew.tap,85," calcium carbonate 160mg, sod. alginate 500mg, sod. hydrogen carbonate 267mg","{""comp"":[{""name"":""calcium carbonate"",""size"":""160mg""},{""name"":""sod. alginate"",""size"":""500mg""},{""name"":""sod. hydrogen carbonate"",""size"":""267mg""}]}",1,12
+gaviscon,susp,55," calcium carbonate 160mg, sod. alginate 500mg, sod. hydrogen carbonate 267mg","{""comp"":[{""name"":""calcium carbonate"",""size"":""160mg""},{""name"":""sod. alginate"",""size"":""500mg""},{""name"":""sod. hydrogen carbonate"",""size"":""267mg""}]}",1,12
+algicab,susp,8.5," pot. bicarbonate 200mg, sod. alginate 1000mg","{""comp"":[{""name"":""pot. bicarbonate"",""size"":""200mg""},{""name"":""sod. alginate"",""size"":""1000mg""}]}",1,12
+gaviscon advance,susp,25," pot. bicarbonate 200mg, sod. alginate 1000mg","{""comp"":[{""name"":""pot. bicarbonate"",""size"":""200mg""},{""name"":""sod. alginate"",""size"":""1000mg""}]}",1,12
+debeskon,susp,10," sod. alginate 250mg, sod. bicarbonate 125mg","{""comp"":[{""name"":""sod. alginate"",""size"":""250mg""},{""name"":""sod. bicarbonate"",""size"":""125mg""}]}",1,12
+gaviscon,sachets,170," sod. alginate 500mg, sod. bicarbonate 267mg","{""comp"":[{""name"":""sod. alginate"",""size"":""500mg""},{""name"":""sod. bicarbonate"",""size"":""267mg""}]}",1,12
+gaviscon infant,sachets,47.25," sod. alginate 225mg, sod. bicarbonate 87.5mg","{""comp"":[{""name"":""sod. alginate"",""size"":""225mg""},{""name"":""sod. bicarbonate"",""size"":""87.5mg""}]}",1,12
+geveskon,susp,10,"sod. alginate 250mg, sod. bicarbonate 125mg","{""comp"":[{""name"":""sod. alginate"",""size"":""250mg""},{""name"":""sod. bicarbonate"",""size"":""125mg""}]}",1,12
+Natural colon aid ,tap,9.5,"aloevera ,bentonite, citpectin, psyllium,rhubarb, white grass","{""comp"":[{""name"":""aloevera"",""size"":""""},{""name"":""bentonite"",""size"":""""},{""name"":""citpectin"",""size"":""""},{""name"":""psyllium"",""size"":""""},{""name"":""rhubarb"",""size"":""""},{""name"":""white grass"",""size"":""""}]}",1,13
+colorestam,tap,18,"1 amylase 4mg, carrot 1 miu. chamomile125mg, pepsin4mg ,valeriana officinalis20mg","{""comp"":[{""name"":""amylase"",""size"":""4mg""},{""name"":""carrot"",""size"":""1miu""},{""name"":""chamomile"",""size"":""125mg""},{""name"":""pepsin"",""size"":""4mg""},{""name"":""valeriana officinalis"",""size"":""20mg""}]}",1,13
+after meals,cap,8,"anise 25mg, bromelin 50mg  chamomile 150mg fennel 50mg, ginger 70mg, papain50mg, peppermint25mg","{""comp"":[{""name"":""anise"",""size"":""25mg""},{""name"":""bromelin"",""size"":""50mg""},{""name"":""chamomile"",""size"":""150mg""},{""name"":""fennel"",""size"":""50mg""},{""name"":""ginger"",""size"":""70mg""},{""name"":""papain"",""size"":""50mg""},{""name"":""peppermint"",""size"":""25mg""}]}",1,13
+G star 4 gastrocare,cap,16.9,"anise 90mg,chamomile 10mg, cumin oil 35mg  fennel 150mg. peppermint 70mg, thyme 70mg","{""comp"":[{""name"":""anise"",""size"":""90mg""},{""name"":""chamomile"",""size"":""10mg""},{""name"":""fennel"",""size"":""150mg""},{""name"":""cumin oil"",""size"":""35mg""},{""name"":""thyme"",""size"":""70mg""},{""name"":""peppermint"",""size"":""70mg""}]}",1,13
+mega gest,cap,19.9,"anise . chamomile. fennel . ginger .thyme, peppermint","{""comp"":[{""name"":""anise"",""size"":""""},{""name"":""chamomile"",""size"":""""},{""name"":""fennel"",""size"":""""},{""name"":""ginger"",""size"":""""},{""name"":""thyme"",""size"":""""},{""name"":""peppermint"",""size"":""""}]}",1,13
+mastere gest,cap,24.2,"anise 30mg, chamomile 30mg, peppermint30mg, thyme 30mg","{""comp"":[{""name"":""anise"",""size"":""30mg""},{""name"":""chamomile"",""size"":""30mg""},{""name"":""thyme"",""size"":""30mg""},{""name"":""peppermint"",""size"":""30mg""}]}",1,13
+anisol,cap,24,"anise 42mg, cinnamon 25mg, clove oil 260mg, ginger 180mg, parsley seed oil 70mg peppermint 0.2ml","{""comp"":[{""name"":""anise"",""size"":""42mg""},{""name"":""cinnamon"",""size"":""25mg""},{""name"":""clove oil"",""size"":""260mg""},{""name"":""ginger"",""size"":""180mg""},{""name"":""parsley seed oil"",""size"":""70mg""},{""name"":""peppermint"",""size"":""0.2ml""}]}",1,13
+colostop,cap,20.25," anise 10mg, dill oil 50mg, fennel 50mg  peppermint 10mg","{""comp"":[{""name"":""anise"",""size"":""10mg""},{""name"":""dill oil"",""size"":""50mg""},{""name"":""fennel"",""size"":""50mg""},{""name"":""peppermint"",""size"":""10mg""}]}",1,13
+verdo,cap,23.8," anise 75mg, ginger 50mg, peppermint 75mg thyme 50mg","{""comp"":[{""name"":""anise"",""size"":""75mg""},{""name"":""ginger"",""size"":""50mg""},{""name"":""thyme"",""size"":""50mg""},{""name"":""peppermint"",""size"":""75mg""}]}",1,13
+cologest,cap,22,"anise 20mg, olive 250mg, peppermint  100mg ","{""comp"":[{""name"":""anise"",""size"":""20mg""},{""name"":""olive"",""size"":""250mg""},{""name"":""peppermint"",""size"":""100mg""}]}",1,13
+mentho anise,cap,30,"anise 50mg, peppermint 50mg","{""comp"":[{""name"":""anise"",""size"":""50mg""},{""name"":""peppermint"",""size"":""50mg""}]}",1,13
+mentho anise,cap,19.95," anise 50mg, peppermint 50mg","{""comp"":[{""name"":""anise"",""size"":""50mg""},{""name"":""peppermint"",""size"":""50mg""}]}",1,13
+bellacid,tap,0.7," belladona 10mg, phenobarbital 20mg","{""comp"":[{""name"":""belladona"",""size"":""10mg""},{""name"":""phenobarbital"",""size"":""20mg""}]}",1,13
+bran,tap,7, bran 500mg,"{""comp"":[{""name"":""bran"",""size"":""500mg""}]}",1,13
+bran mepaco,tap,5, bran 400mg,"{""comp"":[{""name"":""bran"",""size"":""400mg""}]}",1,13
+colo rest fresh,tap,12," bromelin, cellulase, chamomile, glutamic acid, lecithin","{""comp"":[{""name"":""bromelin"",""size"":""""},{""name"":""cellulase"",""size"":""""},{""name"":""chamomile"",""size"":""""},{""name"":""glutamic acid"",""size"":""""},{""name"":""lecithins"",""size"":""""}]}",1,13
+rolls antiflatulent,lozenges,12.9," bromelin, fennel, peppermint, liquorice, papain","{""comp"":[{""name"":""bromelin"",""size"":""""},{""name"":""fennel"",""size"":""""},{""name"":""peppermint"",""size"":""""},{""name"":""liquorice"",""size"":""""},{""name"":""papain"",""size"":""""}]}",1,13
+enemacort0.02mg/ml,enema,23, budesonide 0.02mg,"{""comp"":[{""name"":""budesonide"",""size"":""0.02mg""}]}",1,13
+gestin,cap,15," caraway.  Cardamom , chamomile , fennel , olive oil, peppermint","{""comp"":[{""name"":""caraway"",""size"":""""},{""name"":""Cardamom"",""size"":""""},{""name"":""chamomile"",""size"":""""},{""name"":""fennel."",""size"":""""},{""name"":""olive oil"",""size"":""""},{""name"":""peppermint"",""size"":""""}]}",1,13
+espax,cap,17.5," caraway 25mg, chamomile 30mg, fennel 20mg, ginger 50mg, olive oil 250mg, peppermint 50mg","{""comp"":[{""name"":""caraway"",""size"":""25mg""},{""name"":""chamomile"",""size"":""30mg""},{""name"":""fennel"",""size"":""20mg""},{""name"":""ginger"",""size"":""50mg""},{""name"":""olive oil"",""size"":""250mg""},{""name"":""peppermint"",""size"":""50mg""}]}",1,13
+GIT Spastic Colon Drugs 244/245,cap,15.95," caraway 30mg, chamomile 30mg, fennel 30mg, ginger 30mg, olive oil 250mg, peppermint 30mg","{""comp"":[{""name"":""caraway"",""size"":""30mg""},{""name"":""chamomile"",""size"":""30mg""},{""name"":""fennel"",""size"":""30mg""},{""name"":""ginger"",""size"":""30mg""},{""name"":""olive oil"",""size"":""250mg""},{""name"":""peppermint"",""size"":""30mg""}]}",1,13
+gesto,cap,13,"caraway 25mg, chamomile 100mg, fennel 10mg, ginger  70mg, peppermint 50mg,","{""comp"":[{""name"":""caraway"",""size"":""25mg""},{""name"":""chamomile"",""size"":""100mg""},{""name"":""fennel"",""size"":""10mg""},{""name"":""ginger"",""size"":""70mg""},{""name"":""peppermint"",""size"":""30mg""}]}",1,13
+digeston,cap,23.1," caraway 6mg, chamomile 2mg, fennel 6mg.  olive oil 280mg, peppermint 6mg","{""comp"":[{""name"":""caraway"",""size"":""6mg""},{""name"":""chamomile"",""size"":""2mg""},{""name"":""fennel"",""size"":""6mg""},{""name"":""olive oil"",""size"":""280mg""},{""name"":""peppermint"",""size"":""6mg""}]}",1,13
+mernest,cap,19.5,"caraway 6mg, chamomile 2mg, fennel 6mg.  olive oil 300mg, peppermint 6mg","{""comp"":[{""name"":""caraway"",""size"":""6mg""},{""name"":""chamomile"",""size"":""2mg""},{""name"":""fennel"",""size"":""6mg""},{""name"":""olive oil"",""size"":""300mg""},{""name"":""peppermint"",""size"":""6mg""}]}",1,13
+Doxirazol 30mg,cap,22,xtansoprazole 30mg,"{""comp"":[{""name"":""xtansoprazole"",""size"":""30mg""}]}",1,14
+Doxirazol 60mg,cap,35,dexlansoprazole 60mg,"{""comp"":[{""name"":""dexlansoprazole"",""size"":""60mg""}]}",1,14
+Esmatac 20mg,cap,18,esomeprazole 20mg,"{""comp"":[{""name"":""esomeprazole"",""size"":""20mg""}]}",1,14
+Esmatac 40mg,cap,18,esomeprazole 40mg,"{""comp"":[{""name"":""esomeprazole"",""size"":""40mg""}]}",1,14
+Esmopump 20mg,tab,29.5,esomeprazole 20mg,"{""comp"":[{""name"":""esomeprazole"",""size"":""20mg""}]}",1,14
+Esmopump 40mg,tab,33,esomeprazole 40mg,"{""comp"":[{""name"":""esomeprazole"",""size"":""40mg""}]}",1,14
+Eso protocol 20mg,cap,42,esomeprazole 20mg,"{""comp"":[{""name"":""esomeprazole"",""size"":""20mg""}]}",1,14
+Eso protocol 40mg,cap,52,esomeprazole 40mg,"{""comp"":[{""name"":""esomeprazole"",""size"":""40mg""}]}",1,14
+Esogerdazole 40mg,cap,32,esomeprazole 40mg,"{""comp"":[{""name"":""esomeprazole"",""size"":""40mg""}]}",1,14
+Esomelodan 20mg ,tab,36,esomeprazote 20mg,"{""comp"":[{""name"":""esomeprazole"",""size"":""20mg""}]}",1,14
+Esomelodan 40mg ,tab,40,esomeprazote 40mg,"{""comp"":[{""name"":""esomeprazole"",""size"":""40mg""}]}",1,14
+Esomepex 40mg,tab,40,esomeprazote 40mg,"{""comp"":[{""name"":""esomeprazole"",""size"":""40mg""}]}",1,14
+Ezogast 20mg,tab,60,esomeprazote 20mg,"{""comp"":[{""name"":""esomeprazole"",""size"":""20mg""}]}",1,14
+Ezogast 40mg,tab,40,esomeprazote 40mg,"{""comp"":[{""name"":""esomeprazole"",""size"":""40mg""}]}",1,14
+Klemazice 40mg,cap,20,esomeprazote 40mg,"{""comp"":[{""name"":""esomeprazole"",""size"":""40mg""}]}",1,14
+Neximash 40mg,cap,72,esomeprazote 40mg,"{""comp"":[{""name"":""esomeprazole"",""size"":""40mg""}]}",1,14
+Nexium 20mg,tab,98,esomeprazote 20mg,"{""comp"":[{""name"":""esomeprazole"",""size"":""20mg""}]}",1,14
+Nexium 40mg,tab,73,esomeprazole  40mg,"{""comp"":[{""name"":""esomeprazole"",""size"":""40mg""}]}",1,14
+Nexium 40mg,vial,50,esomeprazole  40mg,"{""comp"":[{""name"":""esomeprazole"",""size"":""40mg""}]}",1,14
+Protopan 20mg,cap,22.5,esomeprazole  20mg,"{""comp"":[{""name"":""esomeprazole"",""size"":""20mg""}]}",1,14
+Protopan 40mg,cap,38,esomeprazole  40mg,"{""comp"":[{""name"":""esomeprazole"",""size"":""40mg""}]}",1,14
+Gastrocure 30mg,cap,28,lansoprazole 30mg,"{""comp"":[{""name"":""lansoprazole"",""size"":""30mg""}]}",1,14
+Lansoprazole 15mg,cap,12,lansoprazole 15mg,"{""comp"":[{""name"":""lansoprazole"",""size"":""15mg""}]}",1,14
+Lantanon 30mg,cap,25,lansoprazole 30mg,"{""comp"":[{""name"":""lansoprazole"",""size"":""30mg""}]}",1,14
+Lanzofutal sr 15mg,cap,18.5,lansoprazole 15mg,"{""comp"":[{""name"":""lansoprazole"",""size"":""15mg""}]}",1,14
+Lanzor 15mg,cap,35,lansoprazole 15mg,"{""comp"":[{""name"":""lansoprazole"",""size"":""15mg""}]}",1,14
+Lanzor 30mg,cap,65,lansoprazole 30mg,"{""comp"":[{""name"":""lansoprazole"",""size"":""30mg""}]}",1,14
+Lopral 30,cap,15.25,lansoprazole 30mg,"{""comp"":[{""name"":""lansoprazole"",""size"":""30mg""}]}",1,14
+LoraI 30mg,cap,25,lansoprazole 30mg,"{""comp"":[{""name"":""lansoprazole"",""size"":""30mg""}]}",1,14
+Peptazol 30mg,cap,45,lansoprazole 30mg,"{""comp"":[{""name"":""lansoprazole"",""size"":""30mg""}]}",1,14
+Zollipak 15mg,cap,18.5,lansoprazole 15mg,"{""comp"":[{""name"":""lansoprazole"",""size"":""15mg""}]}",1,14
+Zollipak 30mg,cap,28,lansoprazole 30mg,"{""comp"":[{""name"":""lansoprazole"",""size"":""30mg""}]}",1,14
+Zoton 30mg,cap,575,lansoprazole 30mg,"{""comp"":[{""name"":""lansoprazole"",""size"":""30mg""}]}",1,14
+Epirazole 20mg,cap,44,omeprazote 20mg,"{""comp"":[{""name"":""omeprazote"",""size"":""20mg""}]}",1,14
+Estohalt 40mg,cap,22,omeprazote 40mg,"{""comp"":[{""name"":""omeprazote"",""size"":""40mg""}]}",1,14
+Fastcure 20mg,cap,18.85,omeprazote 20mg,"{""comp"":[{""name"":""omeprazote"",""size"":""20mg""}]}",1,14
+Fastcure 40mg,cap,30,omeprazote 40mg,"{""comp"":[{""name"":""omeprazote"",""size"":""40mg""}]}",1,14
+Gasec 20mg,cap,75.4,omeprazote 20mg,"{""comp"":[{""name"":""omeprazote"",""size"":""20mg""}]}",1,14
+Gastrazole 20mg,cap,42.4,omeprazote 20mg,"{""comp"":[{""name"":""omeprazote"",""size"":""20mg""}]}",1,14
+Gastroloc 40mg,cap,42,omeprazote 40mg,"{""comp"":[{""name"":""omeprazote"",""size"":""40mg""}]}",1,14
+Healsec  10mg,cap,10,omeprazote 10mg,"{""comp"":[{""name"":""omeprazote"",""size"":""10mg""}]}",1,14
+Healsec  20mg,cap,12,omeprazote 20mg,"{""comp"":[{""name"":""omeprazote"",""size"":""20mg""}]}",1,14
+Healsec  40mg,cap,25,omeprazote 40mg,"{""comp"":[{""name"":""omeprazote"",""size"":""40mg""}]}",1,14
+Hyposec 20mg,cap,42,omeprazole 20mg,"{""comp"":[{""name"":""omeprazote"",""size"":""20mg""}]}",1,14
+losec 20mg,cap,27,omeprazole 20mg,"{""comp"":[{""name"":""omeprazote"",""size"":""20mg""}]}",1,14
+losec 40mg,vial,61.4,omeprazole 40mg,"{""comp"":[{""name"":""omeprazote"",""size"":""40mg""}]}",1,14
+Napizole 20mg,cap,23,omeprazole 20mg,"{""comp"":[{""name"":""omeprazote"",""size"":""20mg""}]}",1,14
+Napizole 40mg,vial,40,omeprazole 40mg,"{""comp"":[{""name"":""omeprazote"",""size"":""40mg""}]}",1,14
+Omepak 10mg,cap,12,omeprazole 10mg,"{""comp"":[{""name"":""omeprazote"",""size"":""10mg""}]}",1,14
+Omepak 20mg,cap,33,omeprazole 20mg,"{""comp"":[{""name"":""omeprazote"",""size"":""20mg""}]}",1,14
+OmepraI 20mg,cap,21,omeprazole 20mg,"{""comp"":[{""name"":""omeprazote"",""size"":""20mg""}]}",1,14
+Omez 10mg,cap,9,omeprazole 10mg,"{""comp"":[{""name"":""omeprazote"",""size"":""10mg""}]}",1,14
+Omez 20mg,cap,13.5,omeprazole 20mg,"{""comp"":[{""name"":""omeprazote"",""size"":""20mg""}]}",1,14
+Omisec 20mg,cap,42,omeprazole 20mg,"{""comp"":[{""name"":""omeprazote"",""size"":""20mg""}]}",1,14
+Pepzol 20mg,cap,13.5,omeprazole 20mg,"{""comp"":[{""name"":""omeprazote"",""size"":""20mg""}]}",1,14
+Pepzol 40mg,cap,31.5,omeprazole 40mg,"{""comp"":[{""name"":""omeprazote"",""size"":""40mg""}]}",1,14
+Prilosec 20mg,tab,80,omeprazole 20mg,"{""comp"":[{""name"":""omeprazote"",""size"":""20mg""}]}",1,14
+Risek 10mg,cap,11,omeprazole 10mg,"{""comp"":[{""name"":""omeprazote"",""size"":""10mg""}]}",1,14
+Risek 20mg,cap,75,omeprazole 20mg,"{""comp"":[{""name"":""omeprazote"",""size"":""20mg""}]}",1,14
+Risek 40mg,cap,60,omeprazole 40mg,"{""comp"":[{""name"":""omeprazote"",""size"":""40mg""}]}",1,14
+Risek 40mg,vial,45,omeprazole 40mg,"{""comp"":[{""name"":""omeprazote"",""size"":""40mg""}]}",1,14
+Ulstop 20mg,cap,24,omeprazole 20mg,"{""comp"":[{""name"":""omeprazote"",""size"":""20mg""}]}",1,14
+Azgovanc 20mg,cap,10.5,"omeprazole 20mg , sod. bicarbonate 1100mg","{""comp"":[{""name"":""omeprazote"",""size"":""20mg""},{""name"":""sod. bicarbonate"",""size"":""1100mg""}]}",1,14
+Azgovanc 40mg,cap,15,"omeprazole 40mg , sod. bicarbonate 1100mg","{""comp"":[{""name"":""omeprazote"",""size"":""40mg""},{""name"":""sod. bicarbonate"",""size"":""1100mg""}]}",1,14
+Downoprazol 40mg,cap,30,"omeprazole 40mg , sod. bicarbonate 1100mg","{""comp"":[{""name"":""omeprazote"",""size"":""40mg""},{""name"":""sod. bicarbonate"",""size"":""1100mg""}]}",1,14
+Omehealth 40mg,cap,15,"omeprazole 40mg , sod. bicarbonate 1100mg","{""comp"":[{""name"":""omeprazote"",""size"":""40mg""},{""name"":""sod. bicarbonate"",""size"":""1100mg""}]}",1,14
+Stomigas 20/1100,cap,15,"omeprazole 20mg , sod. bicarbonate 1100mg","{""comp"":[{""name"":""omeprazote"",""size"":""20mg""},{""name"":""sod. bicarbonate"",""size"":""1100mg""}]}",1,14
+Stomigas 40/1100,cap,15,"omeprazole 40mg , sod. bicarbonate 1100mg","{""comp"":[{""name"":""omeprazote"",""size"":""40mg""},{""name"":""sod. bicarbonate"",""size"":""1100mg""}]}",1,14
+Antopral 20mg,tab,20,pantoprazole 20mg,"{""comp"":[{""name"":""pantoprazole"",""size"":""20mg""}]}",1,14
+Antopral 40mg,tab,35,pantoprazole 40mg,"{""comp"":[{""name"":""pantoprazole"",""size"":""40mg""}]}",1,14
+Controloc 20mg,tab,40,pantoprazole 20mg,"{""comp"":[{""name"":""pantoprazole"",""size"":""20mg""}]}",1,14
+Controloc 40mg,tab,90,pantoprazole 40mg,"{""comp"":[{""name"":""pantoprazole"",""size"":""40mg""}]}",1,14
+Controloc 40mg i.v,vial,45,pantoprazole 40mg,"{""comp"":[{""name"":""pantoprazole"",""size"":""40mg""}]}",1,14
+Delpanto ec 20mg,tab,20,pantoprazole 20mg,"{""comp"":[{""name"":""pantoprazole"",""size"":""20mg""}]}",1,14
+Pantazol 40mg,tab,35,pantoprazole 40mg,"{""comp"":[{""name"":""pantoprazole"",""size"":""40mg""}]}",1,14
+Pantazol 40mg i.v,vial,28,pantoprazole 40mg,"{""comp"":[{""name"":""pantoprazole"",""size"":""40mg""}]}",1,14
+Pantazol 40mg,tab,200,pantoprazole 40mg,"{""comp"":[{""name"":""pantoprazole"",""size"":""40mg""}]}",1,14
+Pantoloc 20mg,tab,25,pantoprazole 20mg,"{""comp"":[{""name"":""pantoprazole"",""size"":""20mg""}]}",1,14
+Pantoloc 40mg,tab,35,pantoprazole 40mg,"{""comp"":[{""name"":""pantoprazole"",""size"":""40mg""}]}",1,14
+Pantopi 20mg,tab,28.5,pantoprazole 20mg,"{""comp"":[{""name"":""pantoprazole"",""size"":""20mg""}]}",1,14
+Pantopi 40mg,tab,11,pantoprazole 40mg,"{""comp"":[{""name"":""pantoprazole"",""size"":""40mg""}]}",1,14
+Pantoprazole 40mg,tab,25,pantoprazole 40mg,"{""comp"":[{""name"":""pantoprazole"",""size"":""40mg""}]}",1,14
+Peptoloc 40mg,tab,17.5,pantoprazole 40mg,"{""comp"":[{""name"":""pantoprazole"",""size"":""40mg""}]}",1,14
+Perloc 40mg,tab,17.5,pantoprazole 40mg,"{""comp"":[{""name"":""pantoprazole"",""size"":""40mg""}]}",1,14
+Perloc 40mg i.v,vial,25,pantoprazole 40mg,"{""comp"":[{""name"":""pantoprazole"",""size"":""40mg""}]}",1,14
+Prevacid,cap,25,pantoprazole 30mg,"{""comp"":[{""name"":""pantoprazole"",""size"":""30mg""}]}",1,14
+Protofix 20mg,tab,25,pantoprazole 20mg,"{""comp"":[{""name"":""pantoprazole"",""size"":""20mg""}]}",1,14
+Protofix 40mg,tab,35,pantoprazole 40mg,"{""comp"":[{""name"":""pantoprazole"",""size"":""40mg""}]}",1,14
+Protofix 40mg i.v,vial,30,pantoprazole 40mg,"{""comp"":[{""name"":""pantoprazole"",""size"":""40mg""}]}",1,14
+Protoloc 20mg,tab,17.5,pantoprazole 20mg,"{""comp"":[{""name"":""pantoprazole"",""size"":""20mg""}]}",1,14
+Zurcal 40mg i.v,vial,30,pantoprazole 40mg,"{""comp"":[{""name"":""pantoprazole"",""size"":""40mg""}]}",1,14
+Bepra 20mg,tab,21,rabeprazole 20mg,"{""comp"":[{""name"":""rabeprazole"",""size"":""20mg""}]}",1,14
+ldizole 20mg,tab,16,rabeprazole 20mg,"{""comp"":[{""name"":""rabeprazole"",""size"":""20mg""}]}",1,14
+Pariet 20mg,tab,40,rabeprazole 20mg,"{""comp"":[{""name"":""rabeprazole"",""size"":""20mg""}]}",1,14
+Rabeprazole 20mg,tab,26,rabeprazole 20mg,"{""comp"":[{""name"":""rabeprazole"",""size"":""20mg""}]}",1,14
+Rabezole 10mg,tab,10,rabeprazole 10mg,"{""comp"":[{""name"":""rabeprazole"",""size"":""10mg""}]}",1,14
+Rabezole 20mg,tab,16,rabeprazole 20mg,"{""comp"":[{""name"":""rabeprazole"",""size"":""20mg""}]}",1,14
+Rabicid 10mg,tab,22,rabeprazole 10mg,"{""comp"":[{""name"":""rabeprazole"",""size"":""10mg""}]}",1,14
+Rabicid 20mg,tab,20,rabeprazole 20mg,"{""comp"":[{""name"":""rabeprazole"",""size"":""20mg""}]}",1,14
+Ulcerostate 10mg,tab,10,rabeprazole 10mg,"{""comp"":[{""name"":""rabeprazole"",""size"":""10mg""}]}",1,14
